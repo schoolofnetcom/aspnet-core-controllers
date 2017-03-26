@@ -1,0 +1,4 @@
+# ASP.NET Core 1.0 + Manipulando Controllers
+
+Projeto destinado aos desenvolvedores ASP.NET, com o objetivo de apresentar os recursos do ASP.NET Core 1.0 para construção de aplicações web e cloud. Esta abordagem concede ao desenvolvedor uma visão de como trabalhar com as várias possibilidades de manipular os Controllers de uma aplicação ASP.NET Core MVC.
+Esta versão didática, apresenta, através dos CRUDs, utilização de Migrations, herança, Injeção de Dependência, dentre outras possibilidades que podem ser resolvidas com ASP.NET Core MVC e explorar ainda mais os recursos dos Controllers, onde é possível ver como rotear as ações do controller, entender e aplicar o model binding, realizar validações, utilização de Injeção de Dependência (DI), entre outros.
